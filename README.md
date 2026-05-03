@@ -24,7 +24,7 @@
   
   <!-- AI & Developer Tools -->
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="40" height="40"/> &nbsp;
+  
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gemini/google" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_copilot" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> &nbsp;
