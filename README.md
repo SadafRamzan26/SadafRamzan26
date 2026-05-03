@@ -1,4 +1,4 @@
-![logo](https://github.com/SadafRamzan26/SadafRamzan26/blob/main/NAYI_IMAGE_KA_NAAM.png?raw=true)
+![logo](https://github.com/SadafRamzan26/SadafRamzan26/blob/main/profilepic.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sadaf Ramzan</h1>
 <h3 align="center">"Future AI Engineer | Passionate About Tech & Automation"</h3>
 <img align="right" alt="coding" width="300" src="https://blog.codeweek.eu/wp-content/uploads/2023/08/animation-photo.jpg">
