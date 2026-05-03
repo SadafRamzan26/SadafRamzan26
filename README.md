@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Sadaf Ramzan</h1>
 <h3 align="center">"Future AI Engineer | Passionate About Tech & Automation"</h3>
 
+<img align="right" alt="coding" width="300" src="https://blog.codeweek.eu/wp-content/uploads/2023/08/animation-photo.jpg">
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=SadafRamzan26&label=Profile%20views&color=0e75b6&style=flat" alt="SadafRamzan26" /> 
 </p>
@@ -24,8 +26,8 @@
   
   <!-- AI & Developer Tools -->
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> &nbsp;
-  
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gemini/google" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gemini" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_copilot" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> &nbsp;
