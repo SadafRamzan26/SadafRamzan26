@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/SadafRamzan26/SadafRamzan26/main/profilepic.png)
+![banner](https://github.com/SadafRamzan26/SadafRamzan26/blob/main/profilepic%20.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sadaf Ramzan</h1>
 <h3 align="center">"Future AI Engineer | Passionate About Tech & Automation"</h3>
