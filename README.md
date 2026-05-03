@@ -33,9 +33,10 @@
 
 <h3 align="left">Featured Projects:</h3>
 <ul>
-  <li><b>Road Accident Detection System:</b> Built with YOLOv8 and Python for real-time safety monitoring.</li>
-  <li><b>E-commerce Technical Architecture:</b> High-level AI-driven platform design for peer-to-peer marketplaces.</li>
-  <li><b>File Integrity Monitor:</b> A security-focused tool for ransomware defense and automated backups.</li>
+  <li><b>Road Accident Detection System using YOLOv8:</b> Developed a real-time detection model to identify accidents in traffic videos using Python and computer vision techniques.</li>
+  <li><b>Student Performance Monitoring & Analysis System:</b> Designed and implemented a platform to analyze student academic performance, generate insights, and provide predictive feedback.</li>
+  <li><b>E-commerce AI Technical Architecture:</b> Designed a high-level 4-level technical hierarchy for a generative AI-driven marketplace.</li>
+  <li><b>File Integrity Monitor & Ransomware Defense Tool:</b> Built a security tool to protect files from unauthorized modifications and provide automated backups for ransomware defense.</li>
 </ul>
 
 <p>
